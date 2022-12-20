@@ -3,3 +3,4 @@ body{background-color: pink; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 
 footer{background-color: pink;}
 head{display: block;}
 img{max-width: 50%; max-height: fit-content; flex-direction: row;}
+div{text-align: center;}
